@@ -1,14 +1,9 @@
 ---
 lab:
-  title: 實驗室 1:瀏覽財務與營運應用程式
+  title: '實驗室 1:瀏覽財務與營運應用程式'
   module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
-ms.openlocfilehash: f1d534e6d6d960be8f6672048f83a20a491264cc
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116212"
 ---
+
 # <a name="module-1-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps"></a>單元 1：探索 Dynamics 365 財務和營運應用程式的核心功能
 
 ## <a name="lab-1---navigate-finance-and-operations-apps"></a>實驗室 1 – 瀏覽財務與營運應用程式
@@ -39,29 +34,18 @@ ms.locfileid: "147116212"
 
         pass@word1
 
-    >[!Note] Internet Explorer 可能會自動在桌面中開啟。 如果尚未完成步驟 2-5，請先完成它們後再瀏覽回 Internet Explorer。
+1. 繼續前，請等候 AdminUserProvisioning 指令碼完成。 這可能需要 2-3 分鐘。 指令碼完成之後，將會短暫顯示一個快顯方塊，以確認管理員使用者已成功更新。
 
-1. 請選取桌面上的 AdminUserProvisioning 檔案。
+1. **Microsoft Edge** 將會開啟 Finance & Operations URL：<https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
-1. 請輸入提供的認證，然後選取 [**提交**]。  
-請在畫面右上的 [**資源**] 功能表中找到您的認證。
-
-1. 繼續前請等待指令碼完成。 這可能需要 2-3 分鐘。 指令碼完成後，將顯示一個彈出框以確認管理員使用者已成功更新。
-
-1. 請選取 [**確定**] 來繼續。
-
-1. 請開啟 **Internet Explorer**。
-
-1. 瀏覽至指定的連結：<https://usnconeboxax1aos.cloud.onebox.dynamics.com>
-
-1. 請使用 [**資源**] 功能表中提供的認證來登入。
+1. 使用 [資源] 功能表中提供的 [使用者名稱] 與 [密碼] 登入。
 
 ### <a name="navigate-finance-and-operations-apps"></a>瀏覽財務與營運應用程式
-1. 在 Finance and Operations 首頁上 (如果已配置)，您將看到：
+1. 在 Finance and Operations 首頁上，您將會看到：
 
     - 預設情況下左側的瀏覽功能表已摺疊。
 
-    - 貴公司的標誌。
+    - 您公司的橫幅影像。
 
     - 根據您在組織中的角色，您可以使用工作區磚。
 
@@ -124,10 +108,14 @@ ms.locfileid: "147116212"
 
 1. 請注意右上方的其他功能。 請將您的滑鼠移動到每個項目並檢閱其功能圖說文字。 完成後，請選擇 [**關閉**] 圖示來關閉頁面並返回首頁。
 
-    ![清單頁面右上方功能表顯示用於連接到 Power Apps、Office 應用程式、重新整理、在新視窗開啟和關閉按鈕的其他功能](./media/m1-common-list-page-additional-features-menu.png)
+    ![清單頁面右上方功能表會顯示用於連接至 [Power Apps]、[Office 應用程式]、[附件]、[重新整理]、[在新視窗中開啟] 與 [關閉] 按鈕的其他功能](./media/m1-common-list-page-additional-features-menu.png)
 
 1. 請在右上方選取 [**說明**] 問號圖示，然後選取 [**說明**]。
 
 1. 請注意，說明資訊是目前頁面相關的。
 
-1. 請嘗試選擇一個工作區磚，然後檢閱該工作區的幫助資訊。 完成後請返回首頁。
+1. 使用左上方的 "Finance and Operations" 連結或左側導覽功能表中的首頁圖示，返回 [預設儀表板]。
+
+>[!Note] 鍵盤快速鍵：Alt+Shift+Home、Finance and Operations 支援許多鍵盤快速鍵，以加速存取系統： https://learn.microsoft.com/en-us/dynamics365/fin-ops-core/fin-ops/get-started/shortcut-keys
+
+1. 嘗試選擇其他 [工作區] 磚，然後檢閱該 [工作區] 的說明資訊。 完成時，返回 [預設儀表板]。

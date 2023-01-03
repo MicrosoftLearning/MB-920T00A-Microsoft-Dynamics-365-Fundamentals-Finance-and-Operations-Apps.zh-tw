@@ -2,13 +2,8 @@
 lab:
   title: 實驗室 3：建立盤點日誌
   module: 'Module 3: Learn the Fundamentals of Microsoft Dynamics 365 Supply Chain Management'
-ms.openlocfilehash: 5e61646d33f284bb7e30b6f63a7db4778f58b47c
-ms.sourcegitcommit: 8e5a278c6e08abdcc3fb719796f79842e868606b
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 07/14/2022
-ms.locfileid: "147116263"
 ---
+
 # <a name="module-3-learn-the-fundamentals-of-microsoft-dynamics-365-supply-chain-management"></a>模組 3：學習 Microsoft Dynamics 365 Supply Chain Management 的基礎知識
 
 ## <a name="lab-3---create-a-counting-journal"></a>實驗室 3 – 建立盤點日誌
@@ -21,15 +16,15 @@ ms.locfileid: "147116263"
 
 4. 庫存盤點日誌表單將會與標題與詳細資訊一同出現
 
-![庫存盤點日誌表單的螢幕擷取畫面，其中已填入標題與詳細資訊。](../media/lp-scm-m-002-warehouse-inventory-mgmt-06.png)
+    ![庫存盤點日誌表單的螢幕擷取畫面，其中已填入標題與詳細資訊。](./media/lp-scm-m-002-warehouse-inventory-mgmt-06.png)
 
-5. 在動作窗格中，選取 [建立明細 -&gt; 線上]。
+5. 在 [動作] 窗格中，選取 [Create lines] \(建立明細\) -&gt; [現有]。
 
-6. 在 [Create on-hand counting journal] \(建立現有盤點日誌\) 對話方塊窗格中，將 [Warehouse] \(倉庫\)、[Inventory Status] \(庫存狀態\)、[Location] \(位置\) 及 [License Plate] \(牌照\) 欄位設定為 [是]。 
+6. 在 [Create on-hand counting journal] \(建立現有盤點日誌\) 對話方塊窗格中，將 [倉儲]、[庫存狀態]、[位置] 及 [牌照] 欄位設定為 [是]。 
 
-![[Create on-hand counting journal] \(建立現有盤點日誌\) 對話方塊窗格的螢幕擷取畫面，其中欄位已如敘述設定。](../media/lp-scm-m-002-warehouse-inventory-mgmt-07.png)
+    ![[Create on-hand counting journal] \(建立現有盤點日誌\) 對話方塊窗格的螢幕擷取畫面，其中欄位已如敘述設定。](./media/lp-scm-m-002-warehouse-inventory-mgmt-07.png)
 
-7. 展開 [Record to include] \(要包含的記錄\) 區段，並選取 **篩選** 連結。 在 [項目編號] 欄位中，選取 **A0001**，然後選取 [確定]。
+7. 展開 [Record to include] \(要包含的記錄\) 區段，並選取 [篩選] 連結。 針對 [項目編號] 欄位，在 [準則] 中鍵入 **A0001**，然後選取 [確定]。
 
 8. 在 [Create on-hand counting journal] \(建立現有盤點日誌\) 對話方塊表單的底部選取 [確定]。
 
