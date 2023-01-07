@@ -2,14 +2,11 @@
 lab:
   title: 實驗室 2：Excel 整合
   module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
-ms.openlocfilehash: 7388809d8222580e4c6ed9cc38c51800d56b1aa0
-ms.sourcegitcommit: 66b904b57adc52ee5c896858be0924d6778642a7
-ms.translationtype: HT
-ms.contentlocale: zh-TW
-ms.lasthandoff: 08/02/2022
-ms.locfileid: "147448032"
 ---
+
 # <a name="module-1-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps"></a>單元 1：探索 Dynamics 365 財務和營運應用程式的核心功能
+
+## <a name="lab-2---excel-integration"></a>實驗室 2 – Excel 整合
 
 ## <a name="objective"></a>目標
 
@@ -33,7 +30,7 @@ ms.locfileid: "147448032"
 
 6.  輸入新記錄。
 
-7. 在 [廠商群組] 欄位中輸入 **100**，在 [描述] 欄位中輸入 **Insurance Vendor**，並在 [付款方式] 欄位中輸入 **Net10**。
+7. 在 [Vendor group] \(廠商群組\) 欄位中輸入 **100**，在 [描述] 欄位中輸入 **Insurance Vendor**，並在 [付款條件] 欄位中輸入 **Net10**。
 
 8. 選取 Microsoft Dynamics Office 增益集應用程式中的 [發佈] 按鈕。
 
