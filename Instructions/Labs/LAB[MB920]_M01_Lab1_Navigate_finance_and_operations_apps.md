@@ -1,12 +1,13 @@
 ---
 lab:
-  title: 實驗室 1：瀏覽財務和營運應用程式
-  module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
+  title: 實驗室 1.1：瀏覽財務和營運應用程式
+  module: 'Learning Path 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
 ---
 
-# 課程模組 1：探索 Dynamics 365 財務和營運應用程式的核心功能
+# 學習路徑 1：探索 Dynamics 365 財務和營運應用程式的核心功能
+# 課程模組 1：描述財務和營運應用程式
 
-## 實驗室 1：瀏覽財務和營運應用程式
+## 實驗室 1.1：瀏覽財務和營運應用程式
 
 ## 目標
 
@@ -47,12 +48,11 @@ lab:
 
     - 指派給您的行事曆和工作項目。
 
-    - 搜尋列有助您快速找到所需的內容。
+    - 有助於快速找出您需要的搜尋列。
 
     - 在右上方，您可以看到目前使用的公司、通知、設定和說明連結。 確認列出的公司為 [USMF]****。
 
-    ![Dynamics 365 Finance and Operations 首頁的螢幕擷取畫面，其中已醒目提示區域。](./media/lab-navigate-finance-and-operations-apps-04.png)
-
+    ![Dynamics 365 Finance and Operations 首頁的螢幕擷取畫面，其中已醒目提示區域。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-14.svg)
 2.  在左上方，請選取 [展開瀏覽窗格]**** 漢堡功能表。
 
 3.  在瀏覽窗格中，您可以找到 [我的最愛]****、[最近]**** 項目、[工作區] **** 和 [模組] **** 的集合。
@@ -69,7 +69,7 @@ lab:
 
 9.  在**首頁**的右上方選擇**設定**圖示，然後選取 [使用者選項]****。
 
-    ![設定圖示和使用者選項下拉式清單的螢幕擷取畫面。](./media/lab-navigate-finance-and-operations-apps-05.png)
+    ![設定圖示和使用者選項下拉式清單的螢幕擷取畫面。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-15.svg)
 
 10. 在 [選項]**** 頁面上，使用索引標籤來進行不同設定以套用至您的帳戶。
 
@@ -83,29 +83,29 @@ lab:
 
 15. 在**首頁**正上方，選取 [搜尋頁面]**** 方塊。
 
-16. 在搜尋方塊中，搜尋 [所有廠商]****。
+16. 在搜尋方塊中，搜尋 **[所有客戶**]。
 
-17. 選取 [所有廠商]**** [應付帳戶] > [廠商]
+17. 選取 [**應收賬** > **款客戶 > ****所有客戶]** 頁面。 
 
-18. 第一次搜尋頁面時您可能需要等候。 搜尋方塊右側有一個小旋轉圓圈，表示正在搜尋。
+18. 第一次搜尋頁面時您可能需要等候。 在搜尋過程中，一個小圓圈會旋轉到搜尋方塊的右邊。
 
-19. [所有廠商]**** 頁面是清單頁面的範例。 清單頁面包含的主要資料，均可供讀取、建立、刪除和更新。 使用清單上方的功能區有更多功能。
+19. 19. [ **所有客戶] 頁面** 是列表頁面的範例。 清單頁面包含的主要資料，均可供讀取、建立、刪除和更新。 您可以從清單上方的功能區取得更多功能。
 
-    ![[所有廠商] 清單的螢幕擷取畫面，其中已醒目提示功能表功能。](./media/lab-navigate-finance-and-operations-apps-06.png)
+    ![[所有廠商] 清單的螢幕擷取畫面，其中已醒目提示功能表功能。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-13.svg)
 
-20. 從清單上醒目提示其中一個廠商，再選取右側的 [相關資訊]**** 功能表，然後檢閱所提供的其他資訊。
+20. 從清單中反白顯示其中一個客戶，並在右側選取 **[相關信息** ] 功能表，然後檢閱提供的資訊。
 
-21. 在廠商清單中，選取 [Acme Office Supplies]****。
+21. 21. 在 [ **客戶]** 列表中，選取 **[Contoso Retail San Dieg**]。
 
-22. 選取 [群組]**** 功能表，然後選取 [廠商群組]**** 欄標題。
+22. 選取 [ **群組]** 功能表，然後選取 **[客戶群組** ] 資料行標題。
 
-    ![Acme Office Supplies 的廠商群組資料行標題螢幕擷取畫面。](./media/lab-navigate-finance-and-operations-apps-07.png)
+    ![ContosoRetail San Diego 之 CUstomer 群組的螢幕快照。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-16.svg)
 
 23. 許多功能表都有可用的排序和篩選。 使用篩選來快速找到您要定位的欄位內容。
 
 24. 請注意右上方的額外功能。 請將您的滑鼠移動到每個項目並檢閱其功能圖說文字。 完成時，請選取**關閉**圖示以關閉頁面，並返回**首頁**。
 
-    ![清單頁面右上方功能表的螢幕擷取畫面，顯示用於連接至 [Power Apps]、[Office 應用程式]、[附件]、[重新整理]、[在新視窗中開啟] 與 [關閉] 按鈕其他功能。](./media/lab-navigate-finance-and-operations-apps-08.png)
+    ![清單頁面右上方功能表的螢幕擷取畫面，顯示用於連接至 [Power Apps]、[Office 應用程式]、[附件]、[重新整理]、[在新視窗中開啟] 與 [關閉] 按鈕其他功能。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-17.svg)
 
 25. 選取右上方的**說明**問號圖示，然後選取 [說明]****。
 

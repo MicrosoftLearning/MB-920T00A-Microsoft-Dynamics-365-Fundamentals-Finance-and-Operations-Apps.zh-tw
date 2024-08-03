@@ -1,12 +1,12 @@
 ---
 lab:
-  title: 實驗室 2：Excel 整合
-  module: 'Module 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
+  title: 實驗室 1.2：Excel 整合
+  module: 'Learning Path 1: Explore the core capabilities of Dynamics 365 finance and operations apps'
 ---
+# 學習路徑 1：探索 Dynamics 365 財務和營運應用程式的核心功能
+# 課程模組 3：描述財務和作業應用程式中的報告和整合功能
 
-# 課程模組 1：探索 Dynamics 365 財務和營運應用程式的核心功能
-
-## 實驗室 2：Excel 整合
+## 實驗室 1.2：Excel 整合
 
 ## 目標
 
