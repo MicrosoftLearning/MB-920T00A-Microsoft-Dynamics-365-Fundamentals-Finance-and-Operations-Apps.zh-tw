@@ -27,8 +27,6 @@ lab:
 
     - 密碼：`pass@word1`
 
-1.  繼續前，請等候 AdminUserProvisioning 指令碼完成。 可能需要 2 -3 分鐘。 指令碼完成之後，將會短暫顯示一個快顯方塊，以確認管理員使用者已成功更新。 
-
 1.  **Microsoft Edge** 將會開啟 Finance & Operations URL：<https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
 1.  使用 [資源]**** 功能表中提供的 [使用者名稱] 與 [密碼] 登入。 
