@@ -27,10 +27,15 @@ lab:
 
     - 密碼：`pass@word1`
 
+1.  此實驗室已設定為自動布建您的系統管理員用戶帳戶。 完成後，Edge 會自動開啟並提示您登入，而且您可以使用 [資源] 索引卷標下找到的提供的認證登入。如果此程序失敗，請檢閱下列附注。 否則，您可以繼續進行實驗室。 
+
+    >在桌面上，按兩下 [AdminUserProvisioning]。
+在 [電子郵件位址] 字段中，輸入 [ **資源** ] 中的使用者名稱，然後按兩下 [提交]。
+等候提示通知系統管理員使用者已成功更新至... 然後按一下 [確定] 。   
+
 1.  **Microsoft Edge** 將會開啟 Finance & Operations URL：<https://usnconeboxax1aos.cloud.onebox.dynamics.com>
 
 1.  使用 [資源]**** 功能表中提供的 [使用者名稱] 與 [密碼] 登入。 
-
 
 ### 瀏覽財務和營運應用程式
 
@@ -50,7 +55,7 @@ lab:
 
     - 在右上方，您可以看到目前使用的公司、通知、設定和說明連結。 確認列出的公司為 [USMF]****。
 
-    ![Dynamics 365 Finance and Operations 首頁的螢幕擷取畫面，其中已醒目提示區域。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-14.svg)
+    ![Dynamics 365 Finance and Operations 首頁的螢幕擷取畫面，其中已醒目提示區域。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-13.svg)
 2.  在左上方，請選取 [展開瀏覽窗格]**** 漢堡功能表。
 
 3.  在瀏覽窗格中，您可以找到 [我的最愛]****、[最近]**** 項目、[工作區] **** 和 [模組] **** 的集合。
@@ -67,7 +72,7 @@ lab:
 
 9.  在**首頁**的右上方選擇**設定**圖示，然後選取 [使用者選項]****。
 
-    ![設定圖示和使用者選項下拉式清單的螢幕擷取畫面。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-15.svg)
+    ![設定圖示和使用者選項下拉式清單的螢幕擷取畫面。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-14.svg)
 
 10. 在 [選項]**** 頁面上，使用索引標籤來進行不同設定以套用至您的帳戶。
 
@@ -87,13 +92,15 @@ lab:
 
 18. 第一次搜尋頁面時您可能需要等候。 在搜尋過程中，一個小圓圈會旋轉到搜尋方塊的右邊。
 
-19. 19. [ **所有客戶] 頁面** 是列表頁面的範例。 清單頁面包含的主要資料，均可供讀取、建立、刪除和更新。 您可以從清單上方的功能區取得更多功能。
+19. [ **所有客戶] 頁面** 是列表頁面的範例。 清單頁面包含的主要資料，均可供讀取、建立、刪除和更新。 您可以從清單上方的功能區取得更多功能。
 
-    ![[所有廠商] 清單的螢幕擷取畫面，其中已醒目提示功能表功能。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-13.svg)
+    ![[所有廠商] 清單的螢幕擷取畫面，其中已醒目提示功能表功能。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-15.svg)
 
 20. 從清單中反白顯示其中一個客戶，並在右側選取 **[相關信息** ] 功能表，然後檢閱提供的資訊。
 
-21. 21. 在 [ **客戶]** 列表中，選取 **[Contoso Retail San Dieg**]。
+    ![[所有廠商] 清單的螢幕擷取畫面，其中已醒目提示功能表功能。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-19.png)
+
+21. 在 [ **客戶]** 列表中，選取 **[Contoso Retail San Diego**]。
 
 22. 選取 [ **群組]** 功能表，然後選取 **[客戶群組** ] 資料行標題。
 
@@ -105,9 +112,5 @@ lab:
 
     ![清單頁面右上方功能表的螢幕擷取畫面，顯示用於連接至 [Power Apps]、[Office 應用程式]、[附件]、[重新整理]、[在新視窗中開啟] 與 [關閉] 按鈕其他功能。](./media/01-explore-the-core-capabilities-of-dynamics-365-finance-and-operations-apps-17.svg)
 
-25. 選取右上方的**說明**問號圖示，然後選取 [說明]****。
 
-26. 顯示的說明資訊會與目前頁面內容相關。
-
-27. 嘗試選擇 [工作區] 圖格，然後檢閱該 [工作區] 的說明資訊。 完成後，請返回**首頁**。
 
